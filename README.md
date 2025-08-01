@@ -1,32 +1,30 @@
-## Hi there! 👋
-
-I'm Anurag Kumar, a passionate Frontend Developer from New Delhi, specializing in creating pixel-perfect web applications. Welcome to my GitHub profile!
-
 ## About Me
 
 I'm currently a student at MAIT. I am dedicated to crafting beautiful and functional web applications that provide great user experiences. I love diving into new technologies and continuously improving my skills.
 
-## Skills & Technologies
+## My Skills
 
-html,css,react,nodejs,java,git,js,ts,tailwind
-
-## Top Projects
-
-- [Movie Review Web Site](https://github.com/anuragkumar88/Movie-Review-web-site) - A web application for reviewing and rating movies. ⭐️ 0 Stars | Language: JavaScript  
-- [News App](https://github.com/anuragkumar88/News-App) - A responsive application that fetches and displays news articles. ⭐️ 0 Stars | Language: HTML  
-- [Password Generator](https://github.com/anuragkumar88/Password-Generator) - A tool for generating secure passwords. ⭐️ 0 Stars | Language: JavaScript  
-- [Memory Matching Game](https://github.com/anuragkumar88/Memory-Matching-Game) - A fun memory matching game built with JavaScript. ⭐️ 0 Stars | Language: JavaScript
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
 
 ## GitHub Stats
 
-🔹 Public Repositories: 9  
-🔹 Followers: 6  
-🔹 Following: 4  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragkumar88&show_icons=true&theme=radical)
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=anuragkumar88&theme=dark&show_icons=true&count_private=true">
 
-## Recent Activity
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=anuragkumar88&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=anuragkumar88&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-Check out my latest activities on GitHub:  
-- Committed code to [Movie Review Web Site](https://github.com/anuragkumar88/Movie-Review-web-site)  
-- Opened issue on [Password Generator](https://github.com/anuragkumar88/Password-Generator)  
-- Updated README in [News App](https://github.com/anuragkumar88/News-App)
+## Connect with me
+
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/anuragkumar80/" target="_blank">Anurag Kumar</a> Email: anuragkumar880081@gmail.com</p>
