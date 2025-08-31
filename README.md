@@ -1,6 +1,6 @@
 ## About Me
 
-I'm currently a student at MAIT. I am dedicated to crafting beautiful and functional web applications that provide great user experiences. I love diving into new technologies and continuously improving my skills.
+I'm currently a student at USICT. I am dedicated to crafting beautiful and functional web applications that provide great user experiences. I love diving into new technologies and continuously improving my skills.
 
 ## My Skills
 
